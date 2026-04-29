@@ -7,8 +7,6 @@ Data and R scripts accompanying:
 > Management: A Meta-Analysis.* **Fish and Fisheries**.
 > doi: [10.1111/faf.70089](https://doi.org/10.1111/faf.70089)
 
-Open access (CC BY) — © 2026 The Author(s). Published by John Wiley & Sons Ltd.
-
 The effect-size calculations themselves (Hedges' *d* and Fisher's *Z*,
 per endpoint and per toxicant, under both *Conservative* and *Inclusive*
 inclusion rules) were performed in `data/Fish_Toxi_Meta_Data.xlsx`.
@@ -108,4 +106,6 @@ If you use these data or scripts, please cite:
 
 ## Contact
 
-Repository maintained by Brandon M. Sosa — bsosa012@fiu.edu
+Repository maintained by Brandon M. Sosa — bsosa012@fiu.edu | brandonsosa247@gmail.com
+
+Corresponding Author: Tomas O. Höök — thook@purdue.edu
