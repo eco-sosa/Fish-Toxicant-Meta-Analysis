@@ -103,12 +103,12 @@ All effect size calculations follow Borenstein et al. (2009) and Gurevitch et al
 
 If using this dataset, please cite:
 
-Sosa, B.M., Malinowski, C.R., & Höök, T.O. (2024). Implications of Maternal Toxicant Effects on Size-Dependent Fisheries' Management: A Meta-Analysis. [Journal Information]
+Sosa, B.M., Malinowski, C.R., & Höök, T.O. (2026). Implications of Maternal Toxicant Effects on Size-Dependent Fisheries' Management: A Meta-Analysis. [Journal Information]
 
 ## Authors
 
 - **Brandon M. Sosa** - Florida International University, Purdue University
-- **Christopher R. Malinowski** - Purdue University, Ocean First Institute  
+- **Christopher R. Malinowski** - Purdue University, Shark Docs LLC 
 - **Tomas O. Höök** - Purdue University, Illinois-Indiana Sea Grant
 
 
@@ -116,6 +116,7 @@ Sosa, B.M., Malinowski, C.R., & Höök, T.O. (2024). Implications of Maternal To
 
 For questions about the dataset or methodology, please contact:
 - Brandon M. Sosa: [bsosa012@fiu.edu]
+- Tomas O. Höök: [thook@purdue.edu]
 
 
 ## Acknowledgments
