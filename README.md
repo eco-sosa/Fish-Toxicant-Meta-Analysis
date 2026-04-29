@@ -1,7 +1,13 @@
-# Meta-Analysis of Hg and PCB Effects on Fish Reproductive Success
+# Implications of Maternal Toxicant Effects on Size-Dependent Fisheries' Management: A Meta-Analysis
 
-This repository contains the data and R scripts used in the meta-analysis
-reported in **[Manuscript citation TBD]**.
+Data and R scripts accompanying:
+
+> Sosa, B. M., Malinowski, C. R., & Höök, T. O. (2026).
+> *Implications of Maternal Toxicant Effects on Size-Dependent Fisheries'
+> Management: A Meta-Analysis.* **Fish and Fisheries**.
+> doi: [10.1111/faf.70089](https://doi.org/10.1111/faf.70089)
+
+Open access (CC BY) — © 2026 The Author(s). Published by John Wiley & Sons Ltd.
 
 The effect-size calculations themselves (Hedges' *d* and Fisher's *Z*,
 per endpoint and per toxicant, under both *Conservative* and *Inclusive*
@@ -86,12 +92,20 @@ All paths in the scripts are relative to the repo root, so:
 Figures are written to `figures/`. Intermediate corrected-effect-size
 tables are written back to `data/` so downstream scripts can pick them up.
 
+## Authors
+
+- **Brandon M. Sosa** — Department of Earth and Environment, Florida International University, Miami, FL, USA; Department of Forestry and Natural Resources, Purdue University, West Lafayette, IN, USA
+- **Christopher R. Malinowski** — Department of Forestry and Natural Resources, Purdue University, West Lafayette, IN, USA; Shark Docs LLC, Miami, FL, USA
+- **Tomas O. Höök** (corresponding author, [thook@purdue.edu](mailto:thook@purdue.edu)) — Department of Forestry and Natural Resources, Purdue University, West Lafayette, IN, USA; Illinois-Indiana Sea Grant College Program, West Lafayette, IN, USA
+
 ## Citation
 
 If you use these data or scripts, please cite:
 
-> Sosa, B. et al. (YEAR). *[Manuscript title]*. *[Journal]*. doi: TBD
+> Sosa, B. M., Malinowski, C. R., & Höök, T. O. (2026). Implications of
+> Maternal Toxicant Effects on Size-Dependent Fisheries' Management: A
+> Meta-Analysis. *Fish and Fisheries*. https://doi.org/10.1111/faf.70089
 
 ## Contact
 
-Brandon Sosa — bsosa012@fiu.edu
+Repository maintained by Brandon M. Sosa — bsosa012@fiu.edu
